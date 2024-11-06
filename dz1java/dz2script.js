@@ -19,3 +19,6 @@ let otvet ="";
     console.log("Пожилой")
             otvet = "Пожилой";
   }
+
+  //2 task
+  
