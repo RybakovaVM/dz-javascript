@@ -40,11 +40,11 @@
 // alert(  'можно купить '+ result + ' остаток '+ change)
 
 //9 task
-// let number1 = prompt('Введите трёхзначное число: ')  
-// let a = Number(number1 % 10)
-// let b = Number((number1 - a) / 10 % 10)
-// let c = Number((number1 - a - b * 10) / 100)
-// alert('Перевёртыш: ' + (a * 100 + b * 10 + c))
+let number1 = prompt('Введите трёхзначное число: ')  
+let a = Number(number1 % 10)
+let b = Number((number1 - a) / 10 % 10)
+let c = Number((number1 - a - b * 10) / 100)
+alert('Перевёртыш: ' + (a * 100 + b * 10 + c))
 
 //10 task
 //let number = prompt('Введите число для проверки на четность: ');

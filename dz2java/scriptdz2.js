@@ -100,34 +100,4 @@
 // }
 
 
-//6 task
-// const euro= 1.05
-// const uan=0.13
-// const azn=0.58
-// let num = Number(prompt ('enter USD'));
-// console.log(num*1.05);
-//  console.log(num*0.13);
-//  console.log(num*0.58)
-
-//7 task
-// let sum = Number( prompt('enter the amount'));
-// if (sum>=200 && sum<300){
-//     console.log ('your discount is 3%')
-// }else if(sum>=300 && sum <500){
-//   console.log( 'your discount is 5%')
-// }else if(sum>=500){
-//     console.log('your discount is 7%')
-// }
-
 //8 task
-//  const pi=3.14
-// const s=0.25
-// let L= Number(prompt('enter the length'));
-// alert (L/pi) ;
-// let  P=Number(prompt('enter the perimeter'));
-// alert(P*s)
-// if (L/pi<=P*s){
-//     alert('окружность поместится в квадрат!') ;
-//  }else{
-//     alert('окружность не поместится в квадрат!') ;
-//  }
