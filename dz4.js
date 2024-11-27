@@ -1,32 +1,40 @@
 //1 task
-// function ttwoo(){
-// function two(a, b) {
-//     if (a < b) {
-//       return -1;
-//     } else if (a > b) {
-//       return 1;
-//     } else if (a == b) {
-//       return 0;
+// let a = 0
+// function fn1task(b, c){
+//     if(b<c){
+//         a = -1
+//     }else if(b>c){
+//         a=1
 //     }
+//     return a
 // }
-// let x = +prompt("Введите первое число для сравнения ");
-// let y = +prompt("Введите второе число для сравнения ");
-// alert(two(x, y))
-// }
-// ttwoo()
+// console.log(fn1task(6, 6));
 
 
-//2 task
-// function fact(n){
-//     if (n == 1) return 1;
-//     return n * Factorial(n - 1);
+
+// debugger
+//     let a = 1
+//     for (let i=1; i<=n; i++){
+//     a=a*i
+//     }
+//     return a
 // }
-// fact()
+// console.log(factorial(0));
+
+//2 task РЕКУРСИЯ!!!     ////////СПРАШИВАЮТ///////////
+// function factorial(n){
+//     return n ? n * factorial(n-1) : 1
+// }
+// console.log(factorial(5));
 
 //3 task
 
 
 //4 task
+// let a =""
+// let b =""
+// let c =""
+// function
 
 
 //5 task
