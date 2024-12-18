@@ -1,36 +1,36 @@
 //1 task
 // let name = prompt('Как тебя зовут?')
-// alert('Привет ' + name)
+// alert('Привет, ' + name + '!')
 
 //2 task
 // let number1 = 2024
 // let number2 = prompt('Укажите год своего рождения')
-// alert(number1 - number2)
+// alert("Вам " + (number1 - number2) + " лет")
 
 //3 task
 // let number = prompt('Укажите длину стороны квадрата')
-// alert(number*4)
+// alert("периметр такого квадрата " + (number*4))
 
 //4 task
 // let number1 =3.14
 // let number2 = prompt('Укажите радиус окружности')
-// alert(number1 * number2**2)
+// alert("площадь такой окружности " + (number1 * number2**2))
 
 //5 task
 // let number1 = prompt('Укажите расстояние в км')
 // let number2 = prompt('Укажите время в часах')
-// alert(number1 / number2)
+// alert("скорость, с которой необходимо двигаться, чтобы успеть вовремя " + (number1 / number2) )
 
 //6 task
 // let number1 = prompt('Укажите сумму долларов')
-// let number2 = 0.91937
-// alert(number1*number2)
+// const number2 = 0.91937
+// alert("Курс валюты " + (number1*number2))
 
 //7 task
 // let number1 = prompt('Укажите объем флешки в гб')
 // let number2 = 1000
 // let number3 = 1024
-// alert(number1*number2/number3)
+// alert("На флешку поместится " + (number1*number2/number3) + " файлов объёмом 820 Мб")
 
 //8 task
 // let number1 = prompt('Укажите сколько у вас денег в кошельке')
@@ -49,4 +49,3 @@
 //10 task
 //let number = prompt('Введите число для проверки на четность: ');
 //alert((parseInt(number) % 2 == 0) ? "четное" : "нечетное");
-

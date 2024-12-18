@@ -85,4 +85,11 @@
 // }
 // console.log(time(77865))
 
-//10 task
+// //10 task
+// function dateDifference(year1, month1, day1, year2, month2, day2) {
+//     const date1 = new Date(year1, month1 - 1, day1);
+//     const date2 = new Date(year2, month2 - 1, day2);
+//     const diffInSeconds = Math.abs((date2 - date1) / 1000);
+//     return time(diffInSeconds);
+// }
+// console.log(dateDifference(2023, 1, 1, 2024, 1, 3)); 
